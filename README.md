@@ -1,10 +1,12 @@
-- 👋 Hey, soy @aantooniioo
-- 👀 Estoy interesado en mejorar mi rendimiento en programación y en la parte de redes.
-- 🌱 Actualmente estoy estudiandon segundo de grado medio de Sistemas Microinformáticos y redes.
-- 💞️ Estaría interesado en colaborar con gente que tenga los mismos intereses que yo.
-- 📫 Puedes encontrarme en angelesblazquez.antonio@jgvaldemora.org
+🖥️ Antonio Ángeles | Desarrollador en formación
+¡Bienvenido a mi repositorio de GitHub! 🎯 Actualmente estoy cursando un Grado Superior en Desarrollo de Aplicaciones Web (DAW) y ampliando mis conocimientos en SQL, diseño de bases de datos, desarrollo web y más.
 
-<!---
-aantooniioo/aantooniioo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔹 Habilidades en desarrollo
+
+HTML, CSS, JavaScript
+
+Bases de datos con SQL (Consultas básicas y avanzadas)
+
+Modelado de bases de datos
+
+Sistemas informáticos
