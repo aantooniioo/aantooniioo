@@ -2,7 +2,7 @@
 
 <p align="center">
 💻 Desarrollador Web en formación (DAW) <br>
-🚀 Apasionado por el desarrollo frontend, backend y bases de datos <br>
+🚀 En constante aprendizaje | Experiencia en entorno real de empresa <br>
 📍 España
 </p>
 
@@ -10,8 +10,25 @@
 
 ## 🚀 Sobre mí
 
-Soy estudiante de Desarrollo de Aplicaciones Web con experiencia en proyectos reales durante mis prácticas en empresa.  
-Me enfoco en crear aplicaciones modernas, funcionales y con diseño profesional.
+Actualmente estoy cursando un Grado Superior en Desarrollo de Aplicaciones Web (DAW) y realizando prácticas en empresa, donde estoy trabajando con tecnologías reales en un entorno profesional.
+
+Durante este tiempo he aprendido a desarrollar aplicaciones completas, desde el diseño de bases de datos hasta la creación de interfaces modernas.
+
+Me gusta construir proyectos bien estructurados, con código limpio y un enfoque lo más profesional posible.
+
+---
+
+## 📚 Formación y aprendizaje
+
+A lo largo de mi formación he trabajado con distintas tecnologías y metodologías:
+
+- 🗄️ Bases de datos con MySQL (consultas, modelado, relaciones)
+- ☕ Backend con Java + Spring Boot
+- 🎨 Frontend con Vue.js + Vuetify
+- 🐍 Python para scripts y análisis de datos
+- 🐳 Docker para entornos de desarrollo
+- 🧠 Clean Code y buenas prácticas de programación
+- 🔗 Git y control de versiones (trabajo por commits estructurados)
 
 ---
 
@@ -34,14 +51,24 @@ Me enfoco en crear aplicaciones modernas, funcionales y con diseño profesional.
 ## 📌 Proyecto destacado
 
 ### 🔥 Práctica Final DAW
-Aplicación web completa con arquitectura profesional:
 
-- Frontend: Vue + Vuetify
-- Backend: Spring Boot
-- Base de datos: MySQL
-- Scripts en Python para análisis de datos
+Aplicación web completa desarrollada siguiendo un enfoque profesional:
 
-👉 Próximamente demo
+- Frontend: Vue + Vuetify (interfaz moderna y funcional)
+- Backend: Spring Boot (API REST)
+- Base de datos: MySQL (modelo relacional)
+- Python: generación de gráficos y análisis de datos
+
+Este proyecto representa todo lo aprendido durante mi formación.
+
+---
+
+## 🧩 Otros proyectos
+
+- 🎮 Tres en raya (JavaScript + DOM)
+- 🌐 Ejercicios y prácticas de Vue
+- ⚙️ APIs con Spring Boot
+- 🗃️ Ejercicios de bases de datos
 
 ---
 
@@ -54,10 +81,16 @@ Aplicación web completa con arquitectura profesional:
 
 ---
 
+## 🎯 Objetivo
+
+Seguir creciendo como desarrollador y formar parte de un equipo donde pueda aportar valor y seguir aprendiendo en proyectos reales.
+
+---
+
 ## 📫 Contacto
 
-📧 Email: (pon aquí tu correo)  
-💼 LinkedIn: (si tienes, ponlo aquí)
+📧 Email: antonioangeles258@gmail.com 
+💼 LinkedIn: https://www.linkedin.com/in/antonio-ángeles-a4254a268/
 
 ---
 
