@@ -90,7 +90,7 @@ Seguir creciendo como desarrollador y formar parte de un equipo donde pueda apor
 ## 📫 Contacto
 
 📧 Email: antonioangeles258@gmail.com 
-💼 LinkedIn: https://www.linkedin.com/in/antonio-ángeles-a4254a268/
+💼 LinkedIn: https://www.linkedin.com/in/antonio-angeles-dev/
 
 ---
 
