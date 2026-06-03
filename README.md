@@ -72,15 +72,6 @@ Este proyecto representa todo lo aprendido durante mi formación.
 
 ---
 
-## 📊 Estadísticas
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=aantooniioo&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aantooniioo&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 ## 🎯 Objetivo
 
 Seguir creciendo como desarrollador y formar parte de un equipo donde pueda aportar valor y seguir aprendiendo en proyectos reales.
