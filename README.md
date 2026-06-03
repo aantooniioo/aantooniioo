@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hola, soy Antonio Ángeles</h1>
 
 <p align="center">
-💻 Desarrollador Web (DAW) <br>
+💻 Desarrollador Web Junior (DAW) <br>
 🚀 En constante aprendizaje | Experiencia en entorno real de empresa <br>
 📍 España
 </p>
