@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hola, soy Antonio Ángeles</h1>
 
 <p align="center">
-💻 Desarrollador Web en formación (DAW) <br>
+💻 Desarrollador Web (DAW) <br>
 🚀 En constante aprendizaje | Experiencia en entorno real de empresa <br>
 📍 España
 </p>
@@ -10,7 +10,7 @@
 
 ## 🚀 Sobre mí
 
-Actualmente estoy cursando un Grado Superior en Desarrollo de Aplicaciones Web (DAW) y realizando prácticas en empresa, donde estoy trabajando con tecnologías reales en un entorno profesional.
+Recientemente he finalizado el Grado Superior en Desarrollo de Aplicaciones Web (DAW) y realizando prácticas en empresa, donde estoy trabajando con tecnologías reales en un entorno profesional.
 
 Durante este tiempo he aprendido a desarrollar aplicaciones completas, desde el diseño de bases de datos hasta la creación de interfaces modernas.
 
